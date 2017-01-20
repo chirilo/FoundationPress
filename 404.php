@@ -2,9 +2,8 @@
 /**
  * The template for displaying 404 pages (not found)
  *
- * @package WordPress
- * @subpackage FoundationPress
- * @since FoundationPress 1.0
+ * @package FoundationPress
+ * @since FoundationPress 1.0.0
  */
 
 get_header(); ?>
@@ -32,4 +31,4 @@ get_header(); ?>
 	</div>
 	<?php get_sidebar(); ?>
 </div>
-<?php get_footer(); ?>
+<?php get_footer();
